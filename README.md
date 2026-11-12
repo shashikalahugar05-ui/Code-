@@ -7,7 +7,6 @@ Analyze sales, profit, category, regional performance with forecasting.
 - sales_input.csv
 - sales_dashboard.py
 - sales_dashboard.png
-
 ## Visuals
 1. Sales & Profit Trend
 2. Category Performance
